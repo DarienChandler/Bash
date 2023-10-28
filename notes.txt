@@ -1,1 +1,4 @@
 Renamed the Bash repo through Github
+Initial Update went through but was prompted to used updated repo url: https://github.com/DarienChandler/Bash-Demo.git
+Will try a second update
+
